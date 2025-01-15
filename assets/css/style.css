@@ -295,7 +295,7 @@ body {
 .category-card,
 .stats-card { background-color: hsla(var(--color), 0.1); }
 
-:is(.course, .blog) .section-title { margin-block-end: 40px; }
+/*:is(.course, .blog) .section-title { margin-block-end: 40px; }*/
 
 
 
